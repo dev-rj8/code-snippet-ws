@@ -1,0 +1,15 @@
+{
+  "name": "code-snippet",
+  "version": "1.0.0",
+  "description": "Web Service for code snippet project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "ravi jakkani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
