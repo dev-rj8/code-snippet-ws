@@ -13,6 +13,6 @@ str = str.replace(/Hello/g, "Hell");
 console.log(str);
 
 document.write(str);
-</script>
 
+</script>
 </body></html> 
